@@ -6,6 +6,8 @@ using namespace std;
  int main(){
     cout << "Hi";
 	cout << "A different line of code"
+	cout << "Another line of code"
+	cout << "Yet another line of code"
 }
 
  void thisIsANewMethod() {
