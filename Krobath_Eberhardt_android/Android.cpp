@@ -8,4 +8,6 @@ using namespace std;
 	cout << "A different line of code"
 }
 
- void thisIsANewMethod() { }
+ void thisIsANewMethod() {
+	 cout << "A different line of code"
+ }
