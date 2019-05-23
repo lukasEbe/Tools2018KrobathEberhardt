@@ -19,5 +19,7 @@ using namespace std;
      bool f = false;
      if(f){
          cout << "Bug is fixed";
+     } else {
+         cout << "es brunnt urr viel";
      }
  }
