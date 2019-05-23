@@ -7,4 +7,6 @@ using namespace std;
     cout << "Hi";
 }
 
- void thisIsANewMethod() { }
+ void thisIsANewMethod() {
+     cout << "Hier steht ein Code."
+ }
