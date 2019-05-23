@@ -10,4 +10,5 @@ using namespace std;
 
  void thisIsANewMethod() {
      cout << "Hier steht ein Code."
+	 cout << "A different line of code"
  }
